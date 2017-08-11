@@ -1,2 +1,1 @@
-# Chrome Dev Editor
-Chrome Dev Editor is back.
+# How to install
