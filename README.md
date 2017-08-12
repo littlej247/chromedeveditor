@@ -3,3 +3,4 @@
 <img src='http://imgh.us/Download_ZIP.png'>
 ## 2. Unpack the zip file
 <img src='http://imgh.us/open-files.png'>
+## 3. Go into Developer mode
